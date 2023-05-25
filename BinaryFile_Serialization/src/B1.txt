@@ -1,0 +1,9 @@
+- Lớp FileInputStream/FileOutputStream thuộc package java.io
+- Lớp FileInputStream có 3 phương thức khởi tạo
+- Lớp FileOutputStream có 4 phương thức khởi tạo
+- Thường dùng phương thức khởi tạo FileOutputStream(File file) để tạo đối tượng
+- Phương thức read() ném ra ngoại lệ IOException.  Để xử lý được ngoại lệ này ta cần dùng khối try catch
+- Phương thức write() ném ra ngoại lệ IOException. Để xử lý được ngoại lệ này ta cần dùng khối try catch
+- Phương thức khởi tạo ném ra ngoại lệ FileNotFoundException. làm thế nào để xử lý được ngoại lệ này ta cần dùng khối try catch
+
+
