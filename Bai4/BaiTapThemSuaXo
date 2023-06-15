@@ -1,0 +1,12 @@
+- Tạo 1 lớp Sutdent
++ Mã sinh viên, có tên , tuổi, lớp, giới tính
++ Khởi tạo khong tham số và full tham só
++ getter và setter
++ Có phương thức toString
+- Tạo 1 lớp objStudent
++ Viết phương thức thêm đối tượng sinh viên vào mảng
++ Viết phương thức xóa sinh viên trong mảng
+- Tạo 1 class testStudent
++ Khởi tạo 5 đôi tương sinh viên
++ Add 5 dối tượng xinh viên vao mảmg
++ Xóa đối tượng sinh viên thứ 2
